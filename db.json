@@ -1,5 +1,37 @@
 {
-  "cards":[
-    {"userId":"zihardz@gmail.com","userName":"zihardz","nickName":"zihardz","cardType":0,"seq":1,"age":39,"education":3,"job":5,"region":"서울 강남구","tam":200,"isNow":0,"subject":"테스트입니다.","description":"테스트카드(팝니다)","imageUrl":"http://placeimg.com/300/220/any","creator":1,"buyer":2,"nowMember":0,"time":60,"targetDate":"2020-06-17","cardDiv":0}
-  ]
+	"cards": [{
+		"userId": "zihardz@gmail.com",
+		"userName": "zihardz",
+		"nickName": "zihardz",
+		"cardType": 0,
+		"seq": 1,
+		"age": 39,
+		"education": 3,
+		"job": 5,
+		"region": "서울 강남구",
+		"tam": 200,
+		"isNow": 0,
+		"subject": "테스트입니다.",
+		"description": "테스트카드(팝니다)",
+		"imageUrl": "http://placeimg.com/300/220/any",
+		"creator": 1,
+		"buyer": 2,
+		"nowMember": 0,
+		"time": 60,
+		"targetDate": "2020-06-17",
+		"cardDiv": 0,
+		"tags": [{
+				"idx": 1445,
+				"name": "심심"
+			},
+			{
+				"idx": 760,
+				"name": "마지막"
+			},
+			{
+				"idx": 850,
+				"name": "무념무상"
+			}
+		]
+	}]
 }
